@@ -1,3 +1,10 @@
+/* 
+Here i am create stored procedure where i am applying all the steps to truncated and load the data to bronze layer
+of the datawarehouse
+
+*/
+
+
 create or alter procedure bronze.load_bonze as
 begin
 	begin try
