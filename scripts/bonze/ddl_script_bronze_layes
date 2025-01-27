@@ -1,6 +1,6 @@
 /* 
-Here i am create stored procedure where i am applying all the steps to truncated and load the data to bronze layer
-of the datawarehouse
+Here I am create a stored procedure where I am applying all the steps to truncate and load the data to the bronze layer
+of the data warehouse
 
 */
 
